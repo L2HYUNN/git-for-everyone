@@ -1,1 +1,2 @@
 Title: Git for Everyone
+subTitle: Hello Everyone

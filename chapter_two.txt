@@ -9,3 +9,19 @@ This is part of new chapter !!
 Welcome!! This is Real Hip Hop!! 
 
 AA
+
+git init 
+
+directory > folder > .git < local storage
+
+git init 
+
+.git save
+
+git add / git commit / git push
+
+git add . 
+
+작업 단위 / 섞인다.
+
+VScode

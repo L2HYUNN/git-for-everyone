@@ -25,3 +25,13 @@ git add .
 작업 단위 / 섞인다.
 
 VScode
+
+working directory / local / git repository  >>> remote
+
+git add .
+
+GUI / git add "file name" 
+
+git commit -m "asdasd"
+
+asd addasd

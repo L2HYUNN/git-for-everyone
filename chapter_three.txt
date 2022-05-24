@@ -1,1 +1,30 @@
 asdas
+
+
+asd 
+
+git revert  
+
+git reset HEAD^ 
+
+--hard 
+
+--soft 
+
+--mixed 
+
+master >> 꾸준히 >> 꾸준히 >> 당연히 
+
+branch 
+
+branch
+
+branch
+
+
+asdas
+
+
+
+
+

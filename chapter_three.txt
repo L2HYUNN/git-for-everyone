@@ -24,6 +24,7 @@ branch
 
 asdas
 
+my new lecture for git
 
 
 
